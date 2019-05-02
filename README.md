@@ -1,0 +1,1 @@
+# Composer пакет MultiException
